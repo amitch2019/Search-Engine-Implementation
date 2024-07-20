@@ -115,7 +115,7 @@ This project includes a custom implementation of a hash table using open hashing
 
 <img width="1216" alt="image" src="https://github.com/user-attachments/assets/701a4ab3-d24e-4ddd-b76b-ece94fd03839">
 
-## Sample Output
+## Sample Output Loaded to the Default Browser
 
 <img width="1189" alt="image" src="https://github.com/user-attachments/assets/dd6a5b62-3938-4086-91f2-d48c65ddbe78">
 

@@ -107,8 +107,8 @@ This project includes a custom implementation of a hash table using open hashing
   
 ## Access to Code
 
-- The source code for this project is not publicly available at the moment.
-- However, it can be shared with potential recruiters or interested persons upon request.
+- The source code for this project is **not publicly available at the moment**.
+- However, it **can be shared with interested persons upon request**.
 - Please contact me directly to request access to the code.
 
 ## Sample Output

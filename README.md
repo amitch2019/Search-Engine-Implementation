@@ -8,10 +8,10 @@ This project showcases a sophisticated search engine implemented with three dist
 
 1. **Three Search Mechanisms**:
    - **Linear Search**: A straightforward search through all files, demonstrating baseline functionality.
-   - **Dict-based Indexed Search**: Utilizes Python's built-in dictionary for fast lookup and significantly improved search speeds.
+   - **Dictionary-based Indexed Search**: Utilizes Python's built-in dictionary for fast lookup and significantly improved search speeds.
    - **Custom-implemented Hash Table**: A bespoke hash table implementation, highlighting deep understanding of hash mechanics and collision handling.
 
-2. **Corpus Processing**: Efficiently manages large datasets, tested with a diverse range of documents including Slate magazine articles and Berlitz travelogues.
+2. **Corpus Processing**: Efficiently manages large datasets, tested with a diverse range of documents including Slate magazine articles (approximately 5000) and Berlitz travelogues.
 
 3. **Web Interface**: Displays search results in a browser, allowing users to navigate seamlessly to the original documents.
 
@@ -110,6 +110,10 @@ This project includes a custom implementation of a hash table using open hashing
 - The source code for this project is not publicly available at the moment.
 - However, it can be shared with potential recruiters or interested persons upon request.
 - Please contact me directly to request access to the code.
+
+## Sample Output
+
+<img width="1189" alt="image" src="https://github.com/user-attachments/assets/dd6a5b62-3938-4086-91f2-d48c65ddbe78">
 
 ---
 

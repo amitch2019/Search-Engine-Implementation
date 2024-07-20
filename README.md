@@ -111,6 +111,10 @@ This project includes a custom implementation of a hash table using open hashing
 - However, it **can be shared with interested persons upon request**.
 - Please contact me directly to request access to the code.
 
+## Command Line Input
+
+<img width="1216" alt="image" src="https://github.com/user-attachments/assets/701a4ab3-d24e-4ddd-b76b-ece94fd03839">
+
 ## Sample Output
 
 <img width="1189" alt="image" src="https://github.com/user-attachments/assets/dd6a5b62-3938-4086-91f2-d48c65ddbe78">

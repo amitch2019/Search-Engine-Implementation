@@ -40,6 +40,8 @@ This project showcases a sophisticated search engine implemented with three dist
 ### 3. Custom Hash Table Search (`myhtable_search.py`)
 - Implements a custom hash table from scratch, including custom hash function and collision handling.
 - Demonstrates advanced understanding of hash table mechanics.
+- **Index Creation Complexity**: O(n) for n total words in all files.
+- **Search Complexity**: Approaching O(1) after indexing (depending upon the number of buckets used in creating the index).
 
 ### 4. Main Program (`search.py`)
 - Manages the user interface and search execution.

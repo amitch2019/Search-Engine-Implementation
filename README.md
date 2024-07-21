@@ -90,7 +90,7 @@ This project includes a custom implementation of a hash table using open hashing
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/multi-strategy-search-engine.git
+    git clone https://github.com/amitch2019/multi-strategy-search-engine.git
     ```
 2. **Navigate to the project directory**:
     ```bash

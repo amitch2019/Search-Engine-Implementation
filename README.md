@@ -55,7 +55,7 @@ This project includes a custom implementation of a hash table using open hashing
    - `htable(nbuckets)`: Initializes a hash table with a specified number of buckets, returning a list of empty lists.
 
 2. **Hash Function**:
-   - `hashcode(o)`: Computes a hash code for integers and strings. For integers, it returns the integer value directly. For strings, it calculates the hash code using the formula `h = h*31 + ord(c)` for each character `c` in the string.
+   - `hashcode(o)`: Computes a hash code for integers and strings. For integers, it returns the integer value directly. For strings, it calculates the hash code using a custom formula.
 
 3. **Bucket Index Lookup**:
    - `bucket_indexof(table, key)`: Finds the index of a key within a specific bucket.
